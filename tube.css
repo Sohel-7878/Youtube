@@ -1,0 +1,307 @@
+.maindiv{
+ width:100%;
+ background-color:white;
+ float:left;
+ height:60px;
+}
+.red{
+	width:40%;
+	background-color:white;
+	float:left;
+	height:12px;
+	margin-top:0.65%;
+	margin-left:20%;
+	padding:1%;
+	border-radius:30px;
+	border: 1px solid grey;
+}
+
+.blue{
+	width:10%;
+	height:840px;
+	background-color:white;
+	float:left;
+	padding-left:0.50%;
+	padding-left:1%;
+	padding-top:%
+}
+
+.purple{
+	width:15%;
+	height:10px;
+	background-color:white;
+	float:left;
+	font-size:18;
+	padding-top:0.80%;
+	margin-left:0%;
+	
+	
+}
+
+.orange{
+	width:100%;
+	height:900px;
+	background-color:white;
+	
+	
+}
+
+.black{
+	width:2.5%;
+	height:22px;
+	background-color:black;
+	float:left; 
+	margin-top:1%;
+	margin-left:1%;
+	padding-top:0.3%;
+	padding-left:0.6%;
+	font-size:15px;
+	border-radius:20px;
+	color:white;
+}
+
+.white {
+	width:4%;
+	height:22px;
+	background-color:edf2f4;
+	float:left; 
+	margin-top:1%;
+	margin-left:1%;
+	padding-top:0.4%;
+	padding-left:0.4%;
+	font-size:15px;
+	border-radius:20px;
+	
+}
+
+.gold{
+	width:4.5%;
+	height:22px;
+	background-color:edf2f4;
+	float:left; 
+	margin-top:1%;
+	margin-left:1%;
+	padding-top:0.3%;
+	padding-left:0.6%;
+	font-size:15px;
+	border-radius:20px;
+}
+
+.silver {
+	width:3.5%;
+	height:22px;
+	background-color:edf2f4;
+	float:left; 
+	margin-top:1%;
+	margin-left:1%;
+	padding-top:0.3%;
+	padding-left:0.7%;
+	font-size:15px;
+	border-radius:20px;
+}
+
+.V {
+	width:3.5%;
+	height:22px;
+	background-color:edf2f4;
+	float:left; 
+	margin-top:1%;
+	margin-left:1%;
+	padding-top:0.3%;
+	padding-left:0.7%;
+	font-size:15px;
+	border-radius:20px;
+}
+
+.A {
+	width:8%;
+	height:22px;
+	background-color:edf2f4;
+	float:left; 
+	margin-top:1%;
+	margin-left:1%;
+	padding-top:0.3%;
+	padding-left:0.7%;
+	font-size:15px;
+	border-radius:20px;
+}
+
+.B {
+	width:4.5%;
+	height:22px;
+	background-color:edf2f4;
+	float:left; 
+	margin-top:1%;
+	margin-left:1%;
+	padding-top:0.3%;
+	padding-left:0.7%;
+	font-size:15px;
+	border-radius:20px;
+}
+
+.C {
+	width:5%;
+	height:22px;
+	background-color:edf2f4;
+	float:left; 
+	margin-top:1%;
+	margin-left:1%;
+	padding-top:0.3%;
+	padding-left:0.7%;
+	font-size:15px;
+	border-radius:20px;
+}
+
+.D {
+	width:6%;
+	height:22px;
+	background-color:edf2f4;
+	float:left; 
+	margin-top:1%;
+	margin-left:1%;
+	padding-top:0.3%;
+	padding-left:0.7%;
+	font-size:15px;
+	border-radius:20px;
+}
+
+.E {
+	width:7%;
+	height:22px;
+	background-color:edf2f4;
+	float:left; 
+	margin-top:1%;
+	margin-left:1%;
+	padding-top:0.3%;
+	padding-left:0.7%;
+	font-size:15px;
+	border-radius:20px;
+}
+
+.F {
+	width:7.5%;
+	height:22px;
+	background-color:edf2f4;
+	float:left; 
+	margin-top:1%;
+	margin-left:1%;
+	padding-top:0.3%;
+	padding-left:0.7%;
+	font-size:15px;
+	border-radius:20px;
+}
+
+.G {
+	width:6%;
+	height:22px;
+	background-color:edf2f4;
+	float:left; 
+	margin-top:1%;
+	margin-left:1%;
+	padding-top:0.3%;
+	padding-left:0.7%;
+	font-size:15px;
+	border-radius:20px;
+}
+
+.H {
+	width:5%;
+	height:22px;
+	background-color:edf2f4;
+	float:left; 
+	margin-top:1%;
+	margin-left:1%;
+	padding-top:0.3%;
+	padding-left:0.7%;
+	font-size:15px;
+	border-radius:20px;
+}
+
+.I {
+	width:25.5%;
+	height:300px;
+	background-color:white;
+	float:left;
+	margin-top:2%;
+	margin-left:-7%;
+	border-radius:10px;
+	padding-top:0%;
+}
+
+.J {
+	width:25.5%;
+	height:300px;
+	background-color:aqua;
+	float:left;
+	margin-top:2%;
+	margin-left:3%;
+	border-radius:10px;
+	padding-top:0%;
+}
+
+.J {
+	width:25.5%;
+	height:300px;
+	background-color:white;
+	float:left;
+	margin-top:2%;
+	margin-left:3%;
+	border-radius:10px;
+	padding-top:0%;
+}
+
+.K {
+	font-size:22px;
+	margin-top:2%;
+	margin-left:3%;
+	float:left;
+	
+}
+
+.L {
+	width:16%;
+	height:355px;
+	margin-left:1%;
+	float:left;
+	background-color:white;
+	margin-top:5%;
+	margin-left:-7.5%
+}
+
+.M {
+	width:16%;
+	height:355px;
+	margin-left:1%;
+	float:left;
+	background-color:white;
+	margin-top:5%;
+}
+
+.N {
+	width:16%;
+	height:355px;
+	margin-left:1%;
+	float:left;
+	background-color:white;
+	margin-top:5%;
+}
+
+/* border: 1px solid black */
+.O {
+	width:16%;
+	height:355px;
+	margin-left:1%;
+	float:left;
+	background-color:white;
+	margin-top:5%;
+}
+
+.P {
+	width:16%;
+	height:355px;
+	float:left;
+	background-color:white;
+	margin-top:5%;
+	margin-left:1%
+}
+
